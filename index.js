@@ -2272,4 +2272,4 @@ exports.start = (client, options) => {
   };
 };
 
-client.login(NDcwNzEyMDY1MjU5MDc3NjUy.Dj1kZA.WCo_VIsl2BsdS7iQUZ-_FPy1U4c);
+client.login(settings.token);
