@@ -2272,4 +2272,4 @@ exports.start = (client, options) => {
   };
 };
 
-client.login(NDcwNzEyMDY1MjU5MDc3NjUy.Dj1L-w._W2RjIsJkBGaOBINmJYk8ILGXDU);
+client.login('NDcwNzEyMDY1MjU5MDc3NjUy.Dj1L-w._W2RjIsJkBGaOBINmJYk8ILGXDU');
